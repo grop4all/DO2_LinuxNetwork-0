@@ -230,4 +230,4 @@ default via 10.10.0.1 dev eth0
 
 ![](images/77_localhost_port.png)
 ![](images/78_ssh.png)
-![](images/79_ipr.png)
+
